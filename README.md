@@ -1,2 +1,5 @@
 # Agri-Shop-Project
-Agri Shop is to create a user-friendly application that connect farmer and consumer.
+Agri Shop is a full-stack, robust and user-friendly application created that connect farmer and consumer in a very easy approach. In this application we had created our application in Android Studio and used Java programming language for development of this application. For backend part we have used the SQLite as database for storing and retrieving the data present and going to our database, and also we have implemented the Firebase for authentication purpose of our appliaction on the basis of security purpose of our Farmer and Consumer data. In this project there are three main modules present:
+1. Admin Module(can see & manage farmer and consumer details after signing in to the app, deatils of crop registration and good advice for the farmer to produce good and best crops).
+2. Farmer Module(After logging in the app he can register for the crops and add the photos of crops, quality of crops, amount of crops on the base of quintal and can give chat support to consumer and share the details of the address as well).
+3. Cosumer Module(Can search for the crops, view the crops, can order the crops after interacting with the farmer for their nearer hub). 
